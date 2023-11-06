@@ -4,7 +4,7 @@
 
 ### Frontend Developer
 
-*   I'm looking for a job as a front-end developer remotely or in the office
+*   I'm looking for a job as a frontend developer remotely or in the office
 *   I live in St. Petersburg
 *   You can contact me [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/lilanastesha)
 
