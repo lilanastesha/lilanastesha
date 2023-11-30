@@ -31,3 +31,9 @@
 - Build Responsive Real-World Websites with HTML and CSS, Udemy 2022
 - Profession layout designer, Hexlet 2023
 - Profession frontend developer, Hexlet 2023
+
+| Repository |  Description |
+| -- | -- |
+| [Brain Games](https://github.com/lilanastesha/brain-games)| Set of 5 mathematical games. You must answer correctly three times in a row to win each game. If the answer is wrong, you can start any game again.|
+| [Website Konstruct](https://github.com/lilanastesha/konstruct) | Responsive website from a free layout. Displays at all resolutions|
+| [Memory Game](https://github.com/jun-hackaton-team-5/memory-game) |A game with cards that are revealed in pairs, and the task is to reveal all the cards in the least number of moves.|
