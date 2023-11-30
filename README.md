@@ -30,7 +30,9 @@
 - Web Development for Beginners: HTML and CSS, Stepik 2022
 - Build Responsive Real-World Websites with HTML and CSS, Udemy 2022
 - Profession layout designer, Hexlet 2023
-- Profession frontend developer, Hexlet 2023
+- Profession frontend developer, Hexlet 2023  
+
+<br/>
 
 | Repository |  Description |
 | -- | -- |
